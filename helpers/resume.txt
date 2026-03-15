@@ -1,0 +1,131 @@
+--- Page 1 ---
+Employment History
+
+Westring 12 60488, Frankfurt am Main, 12203, Germany
+015779111499 - ricardo.schoettler@gmail.com
+
+Ricardo Schoettler, Al Engineer
+
+Generative Al Specialist at Hengeler Mueller, Frankfurt am Main
+Jul 2024 — Present
+
+¢ Implementation of Retrieval Augmented Generation (RAG) Frameworks enabling the
+
+use of Large Language Models (LLMs) in legal use cases.
+e Programming of LLM Agents that can take decisions based on user queries and
+
+available tools
+¢ Design and implementation of pipelines for managing documents and metadata for
+
+millions documents
+
+Data Scientist at Green Fusion, Berlin
+Apr 2022 — Jun 2024
+Data Scientist at a vibrant Berlin-based startup, contributing to cutting-edge solutions.
+
+e Developed advanced statistical models to optimize energy system parameters in
+
+buildings using real-time sensor data.
+¢ Implemented Machine Learning models for precise heat-demand forecasting, involving
+
+thorough preprocessing, feature extraction, and training pipelines.
+¢ Played a key role in the creation of Natural Language Processing (NLP) models, utilizing
+Large Language Models (LLMs), to identify sensor types based on client-provided textual
+
+descriptions.
+
+Machine Learning Researcher at Charité, Berlin
+Feb 2020 — Dec 2022
+
+Student Researcher at the Charité Lab for Artificial Intelligence, focusing on computer vision
+models for predicting long-term stroke outcomes from MRI images.
+
+¢ Designed Al multi-modal architectures integrating MRI and patient clinical data to
+
+enhance predictive accuracy.
+e Implemented a comprehensive framework with dedicated data pipelines for efficient
+
+pre-processing, training, and inference of the developed Al models.
+e Co-authored a research paper highlighting the advantages of Al clinical support
+systems leveraging imaging and patient clinical data.
+
+Statistics & Econometrics Academic Tutor at TU Berlin, Berlin
+Apr 2017 — Mar 2022
+
+Statistics & Econometrics Academic Tutor at TU Berlin, offering comprehensive support to
+students in statistics and econometrics.
+
+e Conducted high-quality tutoring sessions to ensure students master fundamental
+
+statistical and econometric principles.
+e Facilitated understanding of intricate statistical concepts through personalized
+
+assistance.
+¢ Developed tailored study materials and practice exercises to reinforce learning and
+
+enhance student performance.
+
+--- Page 2 ---
+Education
+
+Skills
+
+Academic Work
+
+Languages
+
+Data Science Intern at PwC Deutschland, Berlin
+
+Apr 2021—Dec 2021
+
+As a Data Science Intern at PwC Deutschland, | had the opportunity to apply my knowledge
+and skills in data science for human capital growth.
+
+¢ Performed data cleaning, preprocessing, and exploratory data analysis to prepare
+datasets for modeling.
+
+¢ Developed and evaluated predictive models using machine learning algorithms and
+statistical techniques.
+
+Business Intelligence Working Student at Takeaway.com, Berlin
+
+Apr 2018 — Dec 2018
+
+As a Business Intelligence Working Student at Takeaway.com, developed NLP based models
+for website classification tasks.
+
+e Performed data analysis using SQL, Python, and other analytical tools to extract insights
+and identify trends.
+
+e Ensured data accuracy and integrity through data quality assurance processes and
+validation checks.
+
+e Implemented data preprocessing and model training pipelines for ML models
+
+Bsc. Wirthschaftsingenieurwesen, TU Berlin, Berlin
+
+Apr 2015 — Jun 2021
+
+Msc. Wirschaftsingenieurwesen, TU Berlin
+
+Apr 2021 — Dec 2022
+
+O Python Programming O Large Language Models
+O RAG O Pytorch
+
+O Statistical Analysis O Data Analysis
+
+O Machine Learning O SQL
+
+O Pandas O Langchain
+
+A deep learning analysis of stroke onset time prediction and comparison
+to DWI-FLAIR mismatch
+
+Co-authored paper published in Neurolmage: Clinical. Link:
+https://doi.org/10.1016/j.nicl.2023.103544
+
+oO English Highly proficient O German Highly proficient
+
+O Spanish Native speaker
+
