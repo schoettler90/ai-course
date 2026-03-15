@@ -7,7 +7,7 @@ Build a 20-hour beginner-friendly course on AI Agents. The course is designed fo
 ## Course Structure
 
 - 24 lessons, each approximately 1 hour
-- Each lesson is a standalone Markdown file
+- Each lesson has its own subdirectory containing a lesson draft (`lesson-draft-##.md`), slides (`lesson-slides-##.pptx`), and potentially special notebooks for code examples.
 - Lessons are interleaved: concept introduction → hands-on exercise → independent challenge
 - Platform-agnostic: teaches concepts first, demonstrates with multiple tools
 
@@ -44,10 +44,15 @@ The full course pensum — all 20 lessons, their topics, modules, and tools — 
 
 ```
 lessons/
-  01-lesson-name.md
-  02-lesson-name.md
+  01-lesson-name/
+    lesson-draft-01.md
+    lesson-slides-01.pptx
+    notebooks/  (optional)
+  02-lesson-name/
+    lesson-draft-02.md
+    lesson-slides-02.pptx
   ...
-  20-lesson-name.md
+  20-lesson-name/
 glossary.md
 pensum.md
 ```
