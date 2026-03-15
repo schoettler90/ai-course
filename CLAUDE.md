@@ -6,7 +6,7 @@ Build a 20-hour beginner-friendly course on AI Agents. The course is designed fo
 
 ## Course Structure
 
-- 24 lessons, each approximately 1 hour
+- 20 lessons, each approximately 1 hour
 - Each lesson has its own subdirectory containing a lesson draft (`lesson-draft-##.md`), slides (`lesson-slides-##.pptx`), and potentially special notebooks for code examples.
 - Lessons are interleaved: concept introduction → hands-on exercise → independent challenge
 - Platform-agnostic: teaches concepts first, demonstrates with multiple tools
