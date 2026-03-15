@@ -33,6 +33,7 @@ By the end of the course, students will:
 3. Have practical experience across a range of agent types and use cases
 
 ## Environment
+- **Python**: Use **`uv`** for all Python-related tasks (e.g., `uv sync`, `uv run python script.py`, `uv pip install`).
 - PDF reading requires poppler: `brew install poppler` (note: PDFs in `helper_files/` may be image-based and not machine-readable)
 - Instructor reference materials (resume, bios) are in `helper_files/`
 
