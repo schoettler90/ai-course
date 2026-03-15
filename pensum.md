@@ -26,9 +26,9 @@ Each lesson is approximately 1 hour and includes a concept explanation, real-wor
 | 15 | Practice: Build a Simple Application with Antigravity | Code Agents | Antigravity |
 | 16 | Practice: Document and Data Analysis with Claude Cowork | Code Agents | Claude Cowork |
 | 17 | Local AI and OpenClaw | Local AI | OpenClaw, Ollama |
-| 18 | Multi-Agent Systems | Advanced | LangGraph, AutoGen |
-| 19 | Ethics, Safety, and What's Next | Advanced | — |
-| 20 | TBD | — | — |
+| 18 | Practice: OpenClaw Deep Dive — Build a Marketing Agent | Local AI | OpenClaw |
+| 19 | Multi-Agent Systems | Advanced | LangGraph, AutoGen |
+| 20 | Ethics, Safety, and What's Next | Advanced | — |
 
 ---
 
@@ -355,9 +355,23 @@ Each lesson is approximately 1 hour and includes a concept explanation, real-wor
 
 ---
 
+### Lesson 18 — Practice: OpenClaw Deep Dive — Build a Marketing Agent with OpenClaw
+**Theme:** Advanced local agency — building a production-ready marketing assistant.
+
+**Topics:**
+- Defining a complex multi-tool agent: web search, browser automation, and local file access
+- Workflow design: research → plan → generate → review
+- Using skills for task-specific intelligence
+- Connecting OpenClaw to specific local datasets
+- Fine-tuning the interaction model for marketing copy and strategy
+- **Exercise:** Build a marketing agent that researches a competitor, plans a campaign, and drafts three social media posts
+- **Challenge:** Add a skill that allows the agent to analyze brand sentiment using browser automation
+
+---
+
 ## Module 8 — Advanced Topics and the Big Picture
 
-### Lesson 18 — Multi-Agent Systems and Orchestration
+### Lesson 19 — Multi-Agent Systems and Orchestration
 **Theme:** What happens when agents work together?
 
 **Topics:**
@@ -374,7 +388,7 @@ Each lesson is approximately 1 hour and includes a concept explanation, real-wor
 
 ---
 
-### Lesson 19 — Ethics, Safety, and What Comes Next
+### Lesson 20 — Ethics, Safety, and What Comes Next
 **Theme:** Being a responsible builder in the age of AI agents.
 
 **Topics:**
@@ -389,11 +403,7 @@ Each lesson is approximately 1 hour and includes a concept explanation, real-wor
 
 **Key glossary terms:** Hallucination, RLHF, Agent, Memory, Orchestration, Foundation Model
 
----
 
-### Lesson 20 — TBD
-
----
 
 
 
